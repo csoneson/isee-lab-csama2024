@@ -1,0 +1,11 @@
+---
+title: "Interactive exploration with iSEE"
+subtitle: "CSAMA 2024"
+format: 
+    html:
+        embed-resources: true
+---
+
+[Overview of the iSEE panels](isee/overview.html)
+
+[Exercises](isee/recipes.html)
